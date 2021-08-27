@@ -1,0 +1,3 @@
+rootProject.name = "JsonServerKoin"
+include ':LoginMvvm'
+include ':randomgetcard'
